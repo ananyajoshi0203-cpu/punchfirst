@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="340" viewBox="0 0 680 340" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="210" viewBox="0 0 400 210" role="img">
   <title>punchfirst logo</title>
-  <desc>punchfirst logo — terminal prompt with a green fist cursor mark</desc>
+  <desc>punchfirst — the test throws the first punch</desc>
 
-  <!-- LARGE version — hero -->
-  <g transform="translate(340, 60)">
+  <!-- Icon -->
+  <g transform="translate(200, 56)">
     <rect x="-96" y="0" width="192" height="92" rx="46" fill="#1a202c"/>
     <text x="-34" y="62" font-family="monospace" font-size="48" font-weight="500" fill="#e53e3e" text-anchor="middle">&gt;</text>
     <rect x="4" y="22" width="62" height="48" rx="8" fill="#38a169"/>
@@ -17,47 +17,5 @@
   </g>
 
   <!-- Wordmark -->
-  <text x="340" y="185" font-family="monospace" font-size="28" font-weight="500" fill="#1a202c" text-anchor="middle">punchfirst</text>
-  <text x="340" y="206" font-family="sans-serif" font-size="12" fill="#e53e3e" text-anchor="middle" letter-spacing="0.12em">THE TEST THROWS THE FIRST PUNCH</text>
-
-  <!-- Divider -->
-  <line x1="200" y1="228" x2="480" y2="228" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="340" y="246" font-family="sans-serif" font-size="11" fill="#a0aec0" text-anchor="middle" letter-spacing="0.08em">size variations</text>
-
-  <!-- MEDIUM version -->
-  <g transform="translate(200, 275)">
-    <rect x="-38" y="-26" width="76" height="36" rx="18" fill="#1a202c"/>
-    <text x="-14" y="-4" font-family="monospace" font-size="19" font-weight="500" fill="#e53e3e" text-anchor="middle">&gt;</text>
-    <rect x="2" y="-18" width="26" height="20" rx="4" fill="#38a169"/>
-    <rect x="2" y="-18" width="26" height="5" rx="4" fill="#68d391" opacity="0.45"/>
-    <rect x="4"  y="-23" width="6" height="6" rx="2" fill="#38a169"/>
-    <rect x="13" y="-25" width="6" height="7" rx="2" fill="#38a169"/>
-    <rect x="22" y="-23" width="6" height="6" rx="2" fill="#38a169"/>
-  </g>
-  <text x="200" y="298" font-family="monospace" font-size="13" font-weight="500" fill="#1a202c" text-anchor="middle">punchfirst</text>
-
-  <!-- SMALL / icon only -->
-  <g transform="translate(340, 275)">
-    <rect x="-22" y="-22" width="44" height="44" rx="12" fill="#1a202c"/>
-    <text x="-6" y="4" font-family="monospace" font-size="14" font-weight="500" fill="#e53e3e" text-anchor="middle">&gt;</text>
-    <rect x="4" y="-10" width="14" height="12" rx="3" fill="#38a169"/>
-    <rect x="4" y="-10" width="14" height="4" rx="3" fill="#68d391" opacity="0.45"/>
-    <rect x="5"  y="-15" width="4" height="6" rx="2" fill="#38a169"/>
-    <rect x="11" y="-17" width="4" height="8" rx="2" fill="#38a169"/>
-    <rect x="17" y="-15" width="4" height="6" rx="2" fill="#38a169"/>
-  </g>
-  <text x="340" y="298" font-family="sans-serif" font-size="11" fill="#a0aec0" text-anchor="middle">icon only</text>
-
-  <!-- Outline variant -->
-  <g transform="translate(480, 275)">
-    <rect x="-38" y="-26" width="76" height="36" rx="18" fill="none" stroke="#1a202c" stroke-width="1.5"/>
-    <text x="-14" y="-4" font-family="monospace" font-size="19" font-weight="500" fill="#e53e3e" text-anchor="middle">&gt;</text>
-    <rect x="2" y="-18" width="26" height="20" rx="4" fill="#38a169"/>
-    <rect x="2" y="-18" width="26" height="5" rx="4" fill="#68d391" opacity="0.45"/>
-    <rect x="4"  y="-23" width="6" height="6" rx="2" fill="#38a169"/>
-    <rect x="13" y="-25" width="6" height="7" rx="2" fill="#38a169"/>
-    <rect x="22" y="-23" width="6" height="6" rx="2" fill="#38a169"/>
-  </g>
-  <text x="480" y="298" font-family="sans-serif" font-size="11" fill="#a0aec0" text-anchor="middle">outline variant</text>
-
+  <text x="200" y="182" font-family="monospace" font-size="28" font-weight="500" fill="#1a202c" text-anchor="middle">punchfirst</text>
 </svg>
