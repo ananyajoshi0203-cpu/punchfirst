@@ -1,4 +1,4 @@
-                          ![punchfirst](assets/punchfirst.svg)
+![punchfirst](assets/punchfirst.svg)
 
 # punchfirst
 
