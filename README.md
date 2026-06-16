@@ -1,4 +1,4 @@
-![punchfirst](assets/logo.svg)
+![punchfirst](assets/logo.svg?v=2)
 
 # punchfirst
 
