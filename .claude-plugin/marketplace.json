@@ -1,0 +1,24 @@
+{
+  "name": "punchfirst",
+  "description": "Strict TDD enforcer and test architect for Python codebases.",
+  "owner": {
+    "name": "punchfirst contributors",
+    "email": "ananyajoshi0203@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "punchfirst",
+      "source": ".",
+      "displayName": "punchfirst",
+      "description": "Strict TDD enforcer and test architect. Spec → tests → code. No production code without a failing test first.",
+      "version": "0.1.0",
+      "author": {
+        "name": "punchfirst contributors"
+      },
+      "homepage": "https://github.com/ananyajoshi0203-cpu/punchfirst",
+      "repository": "https://github.com/ananyajoshi0203-cpu/punchfirst",
+      "license": "MIT",
+      "keywords": ["tdd", "testing", "python", "pytest", "tdd-enforcer", "test-architect"]
+    }
+  ]
+}

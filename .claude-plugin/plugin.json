@@ -1,0 +1,14 @@
+{
+  "name": "punchfirst",
+  "version": "0.1.0",
+  "description": "Strict TDD enforcer and test architect. The test throws the first punch — no production code without a failing test first.",
+  "author": {
+    "name": "punchfirst contributors"
+  },
+  "homepage": "https://github.com/ananyajoshi0203-cpu/punchfirst",
+  "repository": "https://github.com/ananyajoshi0203-cpu/punchfirst",
+  "license": "MIT",
+  "keywords": ["tdd", "testing", "python", "pytest", "test-driven-development"],
+  "category": "code-quality",
+  "skills": ["skills/punchfirst"]
+}
