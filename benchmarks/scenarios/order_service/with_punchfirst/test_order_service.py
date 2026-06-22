@@ -116,8 +116,10 @@ class TestApplyDiscount:
     @given(total=st.floats(min_value=0.01, max_value=100_000, allow_nan=False, allow_infinity=False))
     @settings(deadline=None)
     def test_discount_never_increases_total(self, total):
+        # compare against round(total, 2) — the function works in 2dp space,
+        # so FREESHIP can round up a raw float like 1.109375 → 1.11
         for code in ("SAVE10", "SAVE20", "FREESHIP"):
-            assert apply_discount(total, code) <= total
+            assert apply_discount(total, code) <= round(total, 2)
 
     @given(total=st.floats(min_value=0.01, max_value=100_000, allow_nan=False, allow_infinity=False))
     @settings(deadline=None)
